@@ -1,0 +1,27 @@
+.daemon{
+    border-radius: 30px;
+}
+
+.navbar{
+    background-color: rgb(185, 5, 5);
+}
+
+.quem-somos{
+    background-color: rgb(0, 0, 0);
+    color: rgb(185, 5, 5);
+}
+
+.margin{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(32, 32, 32);
+    color: rgb(185, 5, 5);
+}
+
+.bg-footer{
+    background-color: black;
+    color: rgb(185, 5, 5);
+}
